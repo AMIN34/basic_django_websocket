@@ -1,0 +1,8 @@
+asgiref==3.7.2
+channels==4.0.0
+Django==4.2.5
+djangorestframework==3.14.0
+paho_mqtt==1.6.1
+pandas==1.5.3
+daphne==4.0.0
+openpyxl==3.1.2
